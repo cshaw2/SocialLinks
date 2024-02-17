@@ -1,0 +1,58 @@
+
+
+
+div {
+    font-family: Inter;
+    margin: auto;
+    border-radius: 15px;
+    height: 750px;
+    width: 450px;
+    text-align: center;
+    background-color: hsl(0, 0%, 8%);
+}
+
+img{
+    border-radius: 120px;
+    margin-top: 55px;
+}
+
+h1, h4 {
+    color: white;
+}
+
+.button {
+   border-radius: 10px;
+   color: white;
+   display: block;
+   background-color: hsl(0, 0%, 12%);
+   padding-top: 15px;
+   height: 40px;
+   width: 350px;
+   margin-top: 15px;
+   margin-left: 55px;
+   text-decoration: none;
+   
+
+   
+}
+
+p {
+    text-align: center;
+    font-size: 14px;
+    
+    
+}
+
+.location {
+    color: white;
+}
+
+.description{
+
+    color: hsl(75, 94%, 57%);
+}
+
+button:hover {
+
+    background-color: hsl(75, 94%, 57%);
+}
