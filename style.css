@@ -2,6 +2,9 @@
 body{
     background-color: black;
 }
+.author{
+    color: white;
+}
 
 div {
     font-family: Inter;
